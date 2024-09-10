@@ -40,7 +40,7 @@ Some of the methods of ensuring quality assurance includes Peer code review, aut
 It is important to maintain high standards for customer satisfaction, reputation and credibility, security, performance and reliabilty
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
- Defining the project scope contribute to successful project planning by outlining the boundaries, deliverables, and specific objectives of a project. 
+ Defining the project scope contributes to successful project planning by outlining the boundaries, deliverables, and specific objectives of a project. 
  A Work Breakdown Structure (WBS) is a hierarchical decomposition of a project into smaller, more manageable components or tasks.
 It is useful by ensuring that the work is well-planned, resources are properly allocated, and progress is continuously monitored.
 
@@ -51,8 +51,16 @@ Creating a detailed project schedule is a crucial part of project management, of
 The core issues the my software aims to adddress give a clear problem statement such as software applicaions aims to asist writing ability of virtually impaired people by combine voice with the writing note. It is important because it increase the literacy level among the physically challenge people with visual aid.
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
-Clearly 
+Clearly defining the problem is essential for developing a software solution that is focused, effective, and aligned with the needs of the users and stakeholders. It guides every stage of the development process, from initial design to final deployment, ensuring that the solution not only meets the immediate requirements but also provides long-term value.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+By focusing on its purpose, the problem it solves, and the value it provides to its users.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+These are: It is user-friendly with little education level to operate the software. It also combines voice with text which makes it simple for visual impaired people to operate.
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+A primary data is collected through questionnaire to get what people wants and expectations from the software.
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Understanding market trends, which includes new technological innovation, shift in customer behaviour and regulators necessitate the product to be designed to suit the peoples desires
